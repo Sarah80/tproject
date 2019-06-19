@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 ## What?
 
 We are offering a volunteering experience of the special kind: To counter the desertification of our region and answer current environmental and social challenges in a positive way, we are going convert our farm into a space of learning, teaching and experimentation, for those who want to develop a sustainable business on their own. This can encompass the full range from the simplest handcraft like handmade textiles to high tech activities like drones and sensor technology. We are planning to support the experience by setting up a curriculum that consists not only of lessons about how to run a business, but will move into areas like psychology, sociology, history, philosophy, science, sustainability and technology. Our trainees will be encouraged to enrich the curriculum with own ideas or to suggest additional study topics that we can explore together.
