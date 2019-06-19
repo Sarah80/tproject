@@ -13,10 +13,10 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github:  Sarah80
-    rss: rss
+    github: https://github.com/Sarah80
+    # rss: rss
     # dribbble: jekyll
-    facebook: Terlamonte-Project-375055366315740
+    facebook: https://www.facebook.com/Terlamonte-Project-375055366315740
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
