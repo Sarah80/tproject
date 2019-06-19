@@ -1,6 +1,4 @@
----
-title: Home
----
+# Home
 
 ![Image1](https://user-images.githubusercontent.com/31141052/59752768-bb723400-927a-11e9-81b5-2bdc4b95a40f.jpg)
 
