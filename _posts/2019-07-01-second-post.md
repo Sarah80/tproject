@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: To build and to destroy
 ---
 
