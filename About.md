@@ -16,7 +16,7 @@ We do not just want to provide the framework for you to develop your business id
 
 Another project will be our solar kitchen. Solar energy is free for anyone to use and its applications can be surprisingly easy. Combined with a biogas digester, a completey independent, off-grid farm kitchen can be built. We plan to experiment with different solar ovens and driers to collect data and possibly improve existing concepts, with a initial focus on easy-to-build, small scale applications.
 
-## <a name="Wh0">Who?</a>
+## <a name="Who">Who?</a>
 
 
 Pedro is an agricultural engineer and a former teacher, whose subjects stretched from chemistry over biology to farming and ecology. His teaching mode is fueled by pure passion and has no OFF-button, so the best way to keep him happy is to keep him teaching. He has been riding and training horses for years and builds and flies model airplanes. Might appear stubborn at times, but his criticism is seldom out of place, and if you take the time to get to know him, you will be surprised by his open-mindedness.
