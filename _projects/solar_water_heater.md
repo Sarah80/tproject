@@ -1,6 +1,7 @@
 ---
 permalink: /projects/solar-water-heater/
-
+redirect_from:
+  - /brighton-mini-maker-faire/
 title: Solar Water Heater
 date: 2019-07-07
 layout: page
