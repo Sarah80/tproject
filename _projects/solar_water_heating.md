@@ -1,8 +1,8 @@
 ---
-permalink: /projects/solar-water-heater/
+permalink: /projects/solar-water-heating/
 redirect_from:
-  - /solar-water-heater/
-title: Solar Water Heater
+  - /solar-water-heating/
+title: Solar Water Heating
 date: 2019-07-07
 layout: page
 id: 0008
