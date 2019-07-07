@@ -1,6 +1,11 @@
 ---
+permalink: /projects/Solar_Water_Heating/
+
+title: Solar Water Heating
+date: 2019-07-07
 layout: page
-title: Solar Water Heater
+id: 0001
+guid: http://terlamonte.pt/?page_id=0001
 ---
 
 ### The goal: build a solar shower for our guest rooms
