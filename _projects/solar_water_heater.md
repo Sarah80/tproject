@@ -1,5 +1,5 @@
 ---
-permalink: /projects/Solar_Water_Heating/
+permalink: /projects/Solar-Water-Heating/
 
 title: Solar Water Heating
 date: 2019-07-07
