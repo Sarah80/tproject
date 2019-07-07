@@ -41,17 +41,22 @@ We have to calculate the power output of our panel. The average irradiance of th
 - Tube diameter (internal) 3 mm
 - Tube length 50 m
 
-The water temperature at the tap is 20°C and arrives at the panel at 26°C. Which is strange, as it appears to heat more inside the garden hose than inside of the panel.
-
 ### Results
 
-On a cloudy day:
+The water temperature at the tap is 20°C and arrives at the panel at 26°C. Which is strange, as it appears to heat more inside the garden hose than inside of the panel.
 
 | Weather & Panels       | Throughput        | Temp.  |
 | --- | --- | --- |
 | cloudy, panel 1 & 2     | 20 l/h | 39°C |
 | cloudy, panel 1 & 2     | 10 l/h  | 39.8°C |
 | sun, 100m tube + panel 1 & 2 | 55 l/h  | 50°C |
+
+### Considerations for the final system
+
+- Needs a thermostatic mixer to arrive at the tap with consistent temperature
+- Probably will need about 500 l per day when we have guests
+- Safety valve and expansion baloon for the hot water tank
+- Solar pump to fill the cold water tank
 
 
 
