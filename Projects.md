@@ -3,10 +3,10 @@ layout: page
 title: Projects
 ---
 
-[Solar Water Heating System](https://terlamonte.pt/projects/solar-water-heating/)
+[Solar Water Heating System](https://terlamonte.pt/_projects/solar-water-heating/)
 
-[Solar Water Heating System](/projects/solar-water-heating/)
+[Solar Water Heating System](/_projects/solar-water-heating/)
 
-[Solar Water Heating System](/projects/solar-water-heating.md)
+[Solar Water Heating System](/_projects/solar-water-heating.md)
 
-[My page](/projects/solar-water-heating.html)
+[My page](/_projects/solar-water-heating.html)
