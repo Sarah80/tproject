@@ -12,7 +12,3 @@ title: Projects
 [My page](/_projects/solar-water-heating.html)
 
 [one more](_projects/solar-water-heating.md)
-
-[one more](./_projects/solar-water-heating.md)
-
-[one more](-/_projects/solar-water-heating.md)
