@@ -1,6 +1,7 @@
 ---
 title: Solar Water Heating
 layout: page
+permalink: /projects/solar-water-heating/
 ---
 
 ### The goal: build a solar shower for our guest rooms
