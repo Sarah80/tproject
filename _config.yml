@@ -5,6 +5,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   We are a space of learning, teaching and experimentation. We support sustainable startups in rural areas.
 show_excerpts: false # set to true to show excerpts on the homepage
 
+kramdown:
+    auto_ids: true
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
