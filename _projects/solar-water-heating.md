@@ -1,5 +1,4 @@
 ---
-permalink: -/projects/solar-water-heating/
 title: Solar Water Heating
 layout: page
 ---
