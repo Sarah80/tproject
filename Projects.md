@@ -11,4 +11,4 @@ title: Projects
 
 [My page](/projects/solar-water-heating.html)
 
-Oh dear
+[Page]({{site.baseurl}}/projects/solar-water-heating/)
