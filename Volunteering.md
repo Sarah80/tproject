@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteering for Terlamonte Project
+title: Volunteering
 ---
 
 ### Our Offer: Volunteering and Learning combined!
