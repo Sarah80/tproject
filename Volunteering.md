@@ -29,12 +29,12 @@ The most important: You should bring an open mind and your unhindered curiosity,
 
 ### What if I find you guys to be a pain in the neck?
 
-With a project of this scale, frustrations are bound to appear earlier or later. We plan to address the birthing pains of our project with black humour and regular mindfulness practice without religious affiliations, in which invite our volunteers to participate.
+With a project of this scale, frustrations are bound to appear earlier or later. We plan to address the birthing pains of our project with black humour and regular mindfulness practice without religious affiliations, in which we invite our volunteers to participate.
 But of course it is possible that you arrive for a longer stay and find that you don't get along with us and our approach. In this case, we will do our best to find an alternative for you in the region and of course you are free to leave any time you choose, as it would help neither us nor you if you are not happy with being here.
 
 ### What about food and accomodation?
 
-We have several comfortable rooms in our house, and although we experiment with off-grid systems, we are linked to the grid and have running warm water. We will cater for all kinds of vegetarians, vegans and omnivores who accept that we will eat meat sometimes. We provide three meals a day.
+We have several comfortable rooms in our house, and although we experiment with off-grid systems, we are linked to the grid and have running warm water and internet. We will cater for all kinds of vegetarians, vegans and omnivores who accept that we will eat meat sometimes. We provide three meals a day.
 
 ### Questions?
 
