@@ -11,11 +11,13 @@ This can encompass areas like simple handicraft to high tech activities like dro
 
 Additionally, we aim to question the very foundations economy and business are based upon, want to experiment with new ways of organizing work and decision-taking in groups, and through a regional network of mutual support mitigate the risk of self-exploitation and failure by working together with various initiatives already present in the region.
 
-We plan to make use of our vegetable garden, because it supports our aim to offer our curriculum free of charge. In the last years it has fallen out of use, but we believe that the independence of knowing how to grow your own food can be an important element of an independent and dignified existence and of a more healthy work-life balance. We are aware of the many different approaches and philosophies around organic gardening and plan to experiment with various approaches in a systematic way to find out what works and what doesn’t. You are welcome to bring your ideas to be put to the test!
+We are making use of our vegetable garden to support our aim of offering our curriculum free of charge. We believe that the independence of knowing how to grow your own food can be an important element of an independent and dignified existence and of a more healthy work-life balance. We are aware of the many different approaches and philosophies around organic gardening and plan to experiment with various approaches in a systematic way to find out what works and what doesn’t. You are welcome to bring your ideas to be put to the test!
 
-### What will I be doing? How long should I stay?
+### What are the expectations for volunteers? How long should I stay?
 
 Our project is in the beginning stage. During the first phase of our project we will prepare our land and buildings and start with the development of our curriculum - the work will involve a lot of cleaning and tidying up, some gardening, building and planting trees. While these preparations are ongoing, you can opt for a shorter stay to help with some of the simpler tasks before the definite start of the project. In general, we recommend a longer stay of at least a month, as this enables us to present you with a more interesting range of volunteering activities.
+
+We have a set of rules that guarantee a smooth experience for all involved. Please take some time to read through them: [Terlamonte Project Rules](https://docs.google.com/document/d/1lM99EuIg_RGw02vthEBX2V_zqvxbbJMIoMc6dkqntgo/edit?usp=sharing)
 
 Even if our teaching activities have not started officially, there will be a lot to learn already, and we would love to be inspired by your ideas for such a project. What would you want to learn, what to teach? How would you run a regional network of sustainable businesses? What are potential issues with our ideas? If you had the choice, how should society be organized? If you can identify with our approach and if we are getting along, you are of course welcome to extend your stay and become a longtime volunteer/trainee. We expect around 5 hours of help during 5 days a week, plus some cleaning and cooking. We will consider your input if you find you should work less/more/differently.
 
@@ -29,12 +31,12 @@ The most important: You should bring an open mind and your unhindered curiosity,
 
 ### What if I find you guys to be a pain in the neck?
 
-With a project of this scale, frustrations are bound to appear earlier or later. We plan to address the birthing pains of our project with black humour and regular mindfulness practice without religious affiliations, in which we invite our volunteers to participate.
+With a project of this scale, frustrations are bound to appear earlier or later. We plan to address the birthing pains of our project with black humour and mindfulness free of religious affiliations.
 But of course it is possible that you arrive for a longer stay and find that you don't get along with us and our approach. In this case, we will do our best to find an alternative for you in the region and of course you are free to leave any time you choose, as it would help neither us nor you if you are not happy with being here.
 
 ### What about food and accomodation?
 
-We have several comfortable rooms in our house, and although we experiment with off-grid systems, we are linked to the grid and have running warm water and internet. We will cater for all kinds of vegetarians, vegans and omnivores who accept that we will eat meat sometimes. We provide three meals a day.
+We have several comfortable rooms in our house, and although we experiment with off-grid systems, we are linked to the grid and have running warm water and internet. We will cater for all kinds of vegetarians, vegans and omnivores who accept that we will eat meat sometimes. We provide three meals a day, some of them self-service, but we try to eat together at least once a day.
 
 ### Questions?
 
