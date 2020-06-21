@@ -1,7 +1,7 @@
 ---
 title: Solar Parabolic Cooker
 layout: page
-permalink: /projects/solar-parabolic-cooker/
+permalink: /projects/parabolic-solar-cooker/
 ---
 
 ### The goal: build a solar cooker to bake bread and cook food
