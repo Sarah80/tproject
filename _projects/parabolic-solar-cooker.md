@@ -20,7 +20,13 @@ permalink: /projects/solar-parabolic-cooker/
 
 ### Pictures of the system
 
-
+https://user-images.githubusercontent.com/31141052/85223802-8c2a6180-b3bd-11ea-8fa5-23d57b70a2be.jpg
+https://user-images.githubusercontent.com/31141052/85223806-8f255200-b3bd-11ea-84a6-43e316f083e8.jpg
+https://user-images.githubusercontent.com/31141052/85223809-93516f80-b3bd-11ea-8155-91671c520643.jpg
+https://user-images.githubusercontent.com/31141052/85223812-977d8d00-b3bd-11ea-8d4d-0d7a9cb7c71f.jpg
+https://user-images.githubusercontent.com/31141052/85223814-9c424100-b3bd-11ea-8e8d-8d1f42e66a0b.jpg
+https://user-images.githubusercontent.com/31141052/85223816-a106f500-b3bd-11ea-8691-59637bac2774.jpg
+https://user-images.githubusercontent.com/31141052/85223821-a5cba900-b3bd-11ea-9c06-43c21ba69250.jpg
 
 ### Useful resources
 
@@ -28,4 +34,4 @@ permalink: /projects/solar-parabolic-cooker/
 
 ### Conclusions
 
-While we managed to bake bread in the oven and reach a temperature of around 100°C, we find that the danger of the system being destroyed by wind is too high. Also, we think that using the calculated sun position is preferable to the sensor-based system. To address these issues, we are planning to develop a Fresnel mirror system.
+While we managed to bake bread and potatoes in the oven and reach a temperature of around 100°C, we find that the danger of the system being destroyed by wind is too high. Also, we think that using the calculated sun position is preferable to the sensor-based system. To address these issues, we are planning to develop a Fresnel mirror system.
