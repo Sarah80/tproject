@@ -5,7 +5,9 @@ title: Blog
 
 ## 2020
 
-10.03.2020: [Tackling the mess](https://github.com/Sarah80/tproject/edit/master/_posts/2020/03/10/post-6.html)
+21.06.2020: [One year in - alive and kicking](https://terlamonte.pt/2020/06/21/post_7.html)
+
+10.03.2020: [Tackling the mess](https://terlamonte.pt/2020/03/10/post-6.html)
 
 ## 2019
 
