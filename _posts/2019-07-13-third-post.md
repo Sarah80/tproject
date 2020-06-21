@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are we delocating the wasps, or are they delocating us?
+title: Are we relocating the wasps, or are they relocating us?
 ---
 
 This week, the heat arrived, and with it Daniel from London, who patiently helped us with some of the less savoury stuff - carrying tiles and other building materials from A to B. Not the most creative activity, but necessary to make room for the builders who will transform our stables into rooms.
