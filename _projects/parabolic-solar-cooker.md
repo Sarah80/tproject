@@ -1,5 +1,5 @@
 ---
-title: Solar Parabolic Cooker
+title: Parabolic Solar Cooker
 layout: page
 permalink: /projects/parabolic-solar-cooker/
 ---
